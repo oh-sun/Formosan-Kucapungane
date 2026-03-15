@@ -1,1 +1,7 @@
-
+<?xml version="1.0" ?>
+<TEXT id="Kiamalrakibadha" xml:lang="dru" copyright="台邦撒沙. 原住民族委員會 / 國史館 / 國史館臺灣文獻館" citation="台邦撒沙. (2016). KUCAPUNGANE: 魯凱族好茶部落歷史研究. 原住民族委員會 / 國史館 / 國史館臺灣文獻館." BibTeX_citation="@book{kucapungane2016, author={台邦撒沙}, year={2016}, title={KUCAPUNGANE: 魯凱族好茶部落歷史研究}, publisher={原住民族委員會 / 國史館 / 國史館臺灣文獻館}}" dialect="Wutai"> 
+    <S id="S1">
+        <FORM kindOf="original">yakai ku abulruli amianga amia yakai ku tumulini si lamaataka laka kalabisane nau kakilrungu laa iya kai ki laaganeini lamaataka lu malra ku angatu uamalramadu amia laa katuase ku lamaataka laa kela.</FORM>
+        <TRANSL xml:lang="zho">有一位祖父及兩兄弟,三人相依為命。有一天農忙的時候,兄弟倆的祖父對他們說,你們去搬木材回來,記得要拿些稍微彎曲的木材哦,兄弟倆去了之後就回來了。</TRANSL>
+    </S>
+</TEXT>
