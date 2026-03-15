@@ -1,107 +1,107 @@
 <?xml version="1.0" ?>
 <TEXT id="wusilapekidauwane" xml:lang="dru" copyright="台邦撒沙. 原住民族委員會 / 國史館 / 國史館臺灣文獻館" citation="台邦撒沙. (2016). KUCAPUNGANE: 魯凱族好茶部落歷史研究. 原住民族委員會 / 國史館 / 國史館臺灣文獻館." BibTeX_citation="@book{kucapungane2016, author={台邦撒沙}, year={2016}, title={KUCAPUNGANE: 魯凱族好茶部落歷史研究}, publisher={原住民族委員會 / 國史館 / 國史館臺灣文獻館}}" dialect="Wutai"> 
-   <S id="S1">
-       <FORM kindOf="original">Iakai ku Cekele ki sua Taiman iakai ku tai Ruzangilan Pulalualudhan si Malitulituku laikai ku lalakeline ku sia Keleleele laikai ku saka cekeleline ku sia Muakaikai ka lalake ki Dralralu si Muliathape</FORM>
-       <TRANSL xml:lang="zho">有一部落叫taiman,有一個家族叫ruzangilan。pulalualudhan及malitulituku有一個男孩叫Keleleele。在部落裡另有一個叫Muakaikai的女孩,父母是dralralu及muliathape。</TRANSL>
-   </S>
-   <S id="S2">
-       <FORM kindOf="original">kuini aliisu ku Muakaikai saniang ki thariri kadrua ku miaiya la kadalame turamuru ku Keleleele</FORM>
-       <TRANSL xml:lang="zho">Muakaikai長的非常漂亮,沒有人比她好看比她更漂亮了!所有的男士都非常仰慕她,keleleele也不例外。</TRANSL>
-   </S>
-   <S id="S3">
-       <FORM kindOf="original">kuin aliisu ku Muakaikai lukakaiaiya lamu ta belabelangan la ribaribate ki daane ki Keleleele lapasualraalraw ku Keleleele lu itabelangn paeleelege ku Muakaikai la mu taliabang ku Keleleele la liilili ki Muakaikai</FORM>
-       <TRANSL xml:lang="zho">muakaikai每天去tabelabelangan,當經過keleleele的家時,Keleleele總是帶著愛慕眼神望著她,讚嘆她的美貌。要是muakaikai在tabelangn paeleelege時,keleleele常常會去探望她,欣賞她優美的身段與美姿。</TRANSL>
-   </S>
-   <S id="S4">
-       <FORM kindOf="original">Saka kaiaiangelatinitimumunga ku Muakaikai idaane tabelangan lautalriabang ku Muakaikai alanau dreele iya ki Muakaikai laa kakadrua ku ini aliisu ku Keleleele lamalra ku Bulali ini si mutaliabang Bulalilali la kilrala ku ia tabelangan ku lamaaliali ku lingau ki Bulali laiakai ku Muakaikai iainu kuini uabularilari ku matia diidirivan laia ku Muakaikai</FORM>
-       <TRANSL xml:lang="zho">有一天,muakaikai在家裡tinitinununga,keleleele無法從陽台上看到muakaikai。於是keleleele就去拿他的鼻笛,走到陽台上的榕樹下吹奏。此時,在tabelangan的女孩們都聽到了鼻笛聲,muakaikai就問說:「這個非常悠揚的鼻笛聲來自哪裡啊？」。</TRANSL>
-   </S>
-   <S id="S5">
-       <FORM kindOf="original">La pisadra ku tinunu ini laa katuase mulatadre maasiasirare ku Muakaikai ala dreele ku Keleleele ku iataibelangan ku latiatina la senasenai iakai ngia bularilari ku Keleleele la siasirare ku Muakaikai uatinitimuunu ku Muakaikai kai apugusulu ku sauvalrai laiya senai</FORM>
-       <TRANSL xml:lang="zho">於是muakaikai就停止刺繡走到戶外張望,想尋找鼻聲的來源。原來是keleleele想藉由優美笛聲吸引muakaikai出來。不久,keleele聽到婦女們在belangan織布嚷不聽啊!可憐的keleleele啊!相思之苦啊!</TRANSL>
-   </S>
-   <S id="S6">
-       <FORM kindOf="original">ku marudraudrang ki Keleleele tina ini si tama ine laia kai kauriva maadraungas ngukathabaranengasw tasilapenga ku lamaaliali tasilapenga ku siasilanganesu Laiya ku tinaine si tamaini</FORM>
-       <TRANSL xml:lang="zho">有一天,keleleele的長輩及爸爸媽媽對他說:你已經長大了,成年了,該是追求女朋友的時候了,部落裡的姑娘,你有中意的嗎？</TRANSL>
-   </S>
-   <S id="S7">
-       <FORM kindOf="original">madalamaku ki Muakaikai kavai lalake ki Dalalu si Muliathape laia tubale ki tinaini si tamaini</FORM>
-       <TRANSL xml:lang="zho">keleleele回答說:「好好仰慕muakaikai,就是那個dalalu及muliathape家的女孩。」</TRANSL>
-   </S>
-   <S id="S8">
-       <FORM kindOf="original">ku tinaini si tamaini lakauriva ki sasiakaululini ki Sauliulivan maadalamaku ki Muakaikai amiakai Keleleele lumuaa kauriva kivaga lailuku ki Keleleele mupalapalang laiya</FORM>
-       <TRANSL xml:lang="zho">於是爸爸媽媽說,如果你真的喜歡人家,且人家不排斥你,我們可以試試。於是就差遣媒人sauliulivan,去跟muakaikai的父母提親,看是否人家可以答應。</TRANSL>
-   </S>
-   <S id="S9">
-       <FORM kindOf="original">salrikatuase laiya kai si laa bua na nunu kai cinakacakaran taupalapalang ki lalake ki Dalalu laiya salikatuase la sirabu lasiukudru ku idiri ka karali si laa puapu ku sabiki ku daramuan padha ku idai la pakulima ku pakulalia</FORM>
-       <TRANSL xml:lang="zho">隔天sauliulivan就帶著keleleele去女方家提親。臨走前,父母給keleleele佩戴叫做cinakacakaran的刀,以及idire ka karali,並帶著一百粒daramauan的檳榔葉及五包的pakulalia。</TRANSL>
-   </S>
-   <S id="S10">
-       <FORM kindOf="original">samaka puapu laiyakai kauriva kusu kasasiakaulu nai ka Siuliulivan lu palraingi badhanga ki kai daramuan lu kaipalraingi badhanga sarare kai pakulalia laiya cuunu laia katuase ku Sauliulivan si Keleleele</FORM>
-       <TRANSL xml:lang="zho">另外,也交代媒人,尚若女方答應的話,你就給這個daramuane,若女方不答應的話,就請你攜放著pakulalia。</TRANSL>
-   </S>
-   <S id="S11">
-       <FORM kindOf="original">sakela ki tai Muakaikai laia kai ku tina si tama ki Muakaikai anukaman tumana amianumi si laia la tubaleku Sauliulivan maadalamaku ki Muakaikai amiakai Keleleele tumana amianumi paalrainginumi laiya ku Sauliulivan kauriva laiakai ku marudraudrang ki Muakaikai muasakene nai numian mainunai kainai sudalepe laa iya</FORM>
-       <TRANSL xml:lang="zho">當sauliulivan及keleleel來到muakaikai的家後,muakaikai的父母就問:怎麼是你們？你們要做什麼？sauliulivan回答說:我們家小主人keleleele非常仰慕你們家的muakaikai,我們這趟是來提親的。不知你們意下如何？</TRANSL>
-   </S>
-   <S id="S12">
-       <FORM kindOf="original">Laa tubale ku Sauliulivan kai katuman madalamaku amia kai Keleleele ani takivaga ki Muakaikai laiya sa kivaga ki Muakaikai madalamaku laiya tubale</FORM>
-       <TRANSL xml:lang="zho">muakaikai的父母就回答說:我們非常尊重你們,只怕身份地位無法匹配。sauliulivan回答說,這沒關係,只要大家有此意願,事情好辦。</TRANSL>
-   </S>
-   <S id="S13">
-       <FORM kindOf="original">paalraing ku madalamaku laiya ku Muakaikai laa bai ku Keleleele ku pinuapuan ku daramuan ka sabiki laa tarumra ku Muakaikai apu ku baiki Keleleele alakatuase siuli mudavanan</FORM>
-       <TRANSL xml:lang="zho">此時,muakaikai的母親就請muakaikai出來見客,並詢問她的想法。muakaikai回答說:不排斥keleleele,願意跟他結親。此時,keleleele就拿出daramuan送給muakaikai,當作已接受他的象徵。</TRANSL>
-   </S>
-   <S id="S14">
-       <FORM kindOf="original">Sa karudrange laa tara cailinga taa tara drusanga ka caili laa tara limanga ka caili laa kai tulaalake</FORM>
-       <TRANSL xml:lang="zho">但keleleele與muakaikai結婚後,一年、二年、五年都過去了,但她就沒有生出小孩。</TRANSL>
-   </S>
-   <S id="S15">
-       <FORM kindOf="original">ku tama si tina ki Keleleele ani kai tulalaalake kai Muakaikai maathariri maka katuase ani silape kai Keleleele laia ku tina ini si tama ini</FORM>
-       <TRANSL xml:lang="zho">keleleele的父母親納悶為什麼嫁婦無法懷孕!急著抱孫的二老,心想muakaikai可能無法生育,不如讓他們離婚,讓keleleele再去找新的對象,以傳宗接代,二老如此盤算著。</TRANSL>
-   </S>
-   <S id="S16">
-       <FORM kindOf="original">Lai kai sa alupu ku Keleleele la mutabelangan ku Muakaikai maa kalimalenga saa kelakelanga ki Keleleele laiya ku Muakaikai anau mubaliunga si agaku sadramate Ki keleleele laa iya</FORM>
-       <TRANSL xml:lang="zho">有一天,keleleele去打獵,muakaikai去tabelangan織布。過了五天,muakaikai心想,keleleele打獵有五天了,也該回來。我該回家煮keleleele喜歡的晚餐了,Muakaikai心想著這件事。</TRANSL>
-   </S>
-   <S id="S17">
-       <FORM kindOf="original">Sa kelanga tavanan laa kilara ku Muakaikai sama ka kaurivariva ku tama sitina ki Keleleele la iyaiya kai lukela ku Keleleele ani kai taa drusaanga ani makakatuase Muakaikai laa katuase siuli mutabelangan ku muadaanenga</FORM>
-       <TRANSL xml:lang="zho">結果muakaikai到家後,就聽到公公婆婆正在討論如何讓他們夫妻不再同房,讓他們離婚的事宜。婆婆說:「muakaikai漂亮又如何!不會生孩子有什麼用？」。muakaikai聽到公婆的對話後,傷心欲泣。</TRANSL>
-   </S>
-   <S id="S18">
-       <FORM kindOf="original">La ka miaaubunga saa kelakelanga ki Keleleele la ui ngibuale ki lregelrege animia kai lingau ki Keleleele laa iya saki laira ku Muakaikai si tubi lakatuase mubaliu makakai latinaini kai mua tavananenge muaki tai Keleleele</FORM>
-       <TRANSL xml:lang="zho">接近黃昏時,muakaikai聽到在山的那邊有U……聲,心想可能是keleleele,於是就更傷心。直接回娘家,不再回keleleele的家了。</TRANSL>
-   </S>
-   <S id="S19">
-       <FORM kindOf="original">Sa kelaanga baliu sa kelanga tavanan ku Keleleele kadruaku Muakaikai laa nakuan laiya la tubale ku tinain kaleleele muainu ku lalakesu ani palemeke kai kidreedreseng ku kamuainu anipalemeke la iakai ku vaganumi laiya ku leleleele kauriva tu balre ki tinaini laa kai kane ku kitedraini laa katuase kabiibiile muaki Muakaikai</FORM>
-       <TRANSL xml:lang="zho">keleleele進了家門後發現muakaikai沒有在家,於是keleleele詢問父母:「muakaikai去那裡呢!怎麼沒來接我呢？」。他的父母回答說:「我們不知道她去那裡,她今天沒有回家。」Keleleele說:「你們可能對她說了什麼吧!」。於是keleleele也不在家裡吃飯,就直接去找心愛的muakaikail了。</TRANSL>
-   </S>
-   <S id="S20">
-       <FORM kindOf="original">asupia maatumanesu asupalemeke laiya ku Keleleele maabarengeraku ki latinaini si tamaita laiya ani ila tamu tavonane inaku uakaneana ku kitedrali laiaku Keleleele inaku tupala musuan ingu barengeraneanaku ki ina si ama kiaunga lu kakaiaiannga lu katuasanga asusarakan ku kitedraasu laiya ku Muakaikai laa katuase ku Keleleele</FORM>
-       <TRANSL xml:lang="zho">見到muakiakia後,keleleele問:「你這樣做是為了什麼嗎？你是怎樣了呢？」muakaikai回答說:「因為,我想念我爸媽嘛!」keleleele就說:「那我們現在就回家去吧,我還沒有吃晚餐呢？」。muakaikai卻跟她的丈夫說:「很抱歉!我不要跟你回去了,我要好好的陪著我父母,回去的事改天再說好了,你早點回去吧,早點吃你的晚餐。」keleleele就回家了。</TRANSL>
-   </S>
-   <S id="S21">
-       <FORM kindOf="original">Samaka pusalenga ku vai la aga ku Muakaikai ku kadalame ki Keleleele ku rinepelan ka cpearan ka becng ku Muakaikai la sikaulu ki laa vaavalake daulu ku Keleleele alakela ku Keleleele maabarengeraku musuan buala takan kaludrusa laiya ku Muakaikai laa kiragai ku Keleleele samakakan laiakai ku Muakaikai iakuinai akaurivaneli apeelaelaaneli musuan ai madha ka samasamadre nakuan lakaidu kaelaela ki tamaita si tinaita pasalaalaadhanga ku ki dremedreme ki tamaita si tinaita saalupusu laimutabelanganaku nau mubaliunga ku kitedra ki Keleleele laiya ku lakelaku tavanan maakakaurivariva ku tinaita si tamaita Keleleele ka kadalameli kikai isiuli maru niakeli ibaadra ku musuan patuele kai niakeli kai kidremedremeli ngulingavangaili laiya ku Muakaikai kikai isiuli sakika daladalamaneli laiya ku Muakaikai si tubi tungaungau si kebere kiKeleleele</FORM>
-       <TRANSL xml:lang="zho">過兩天後,muakaikai煮了keleleele最喜歡吃的小米飯,並吩咐一小朋友去請keleleele來。Keleleele來了之後,muakaikai就說:「我想念你,所以煮了你最喜歡吃的小米飯,但是我有話要跟你說。」於是muakaikai非常悲傷的哭泣,告訴keleleele公婆如何差導她的事情,muakaikai說,如果你要換老婆,請記得一定要找和我一樣愛你的人。於是她把髮長及腰的秀髮剪掉,將之圍在keleleele的腰上並說:「這是我身上最珍貴的東西,也是許多人仰慕我的原因之一,當你追求其他女人時,請不要忘了我的柔情!」。</TRANSL>
-   </S>
-   <S id="S22">
-       <FORM kindOf="original">kai makapiale ku vai ku tama si tina ki Keleleele laa daulu ki sasiakaulalini ka Sauliulivan laiyakai kauriva isilapengata ku siasilangan ki Keleleele lukakbiaia iluka ki Keleleele si taalrailraginilaa katuase muaki cekelenga silape ku kadalame ki Keleleele saulivan ikatuman laa iya</FORM>
-       <TRANSL xml:lang="zho">過沒多久keleleele的父母又請sauliulivan再度當媒人,替keleleele找新的老婆。他們要sauliulivan到各部落去,打聽最漂亮聰慧的頭目貴族家的女孩,作為keleleele新的老婆對象。</TRANSL>
-   </S>
-   <S id="S23">
-       <FORM kindOf="original">Lakela ki daane ki talialaalai anukamani uatumanenumi laa iya uasilasilapenai ku siasilangan ki Keleleele laiakai ku tarudraudrang lamaaliali ki libang ku maca nguatha ki laulaudru ku ngudui laa ka samali ku Keleleele si taisi marrikaka laa iya sakelataisimmarikaka laa muaki dane ki talialaalai</FORM>
-       <TRANSL xml:lang="zho">之後keleleele一行人來到Karavasane這個部落。keleleele等人向長老解釋是來相親後,眾長老就請所有的大家閨秀出來見客。結果,當這些貴花閨女出來後把大家聚一起。因為這些女子個個有著如窗戶一樣大的眼睛,如門一樣寬的嘴巴!受驚嚇的一行人馬上留下一包檳榔後快速地離開轉到別的部落。</TRANSL>
-   </S>
-   <S id="S24">
-       <FORM kindOf="original">anu kamani uatumanenumi laa kiya laa tubale ku Sauliulivan ua silasilapenai lamaaliali ku ika siasilangn ki Keleleele laiya laiakai ku tarudraudrange lamaaliali buala mulatadra ki dreedresenge ki lataka pasudalua laiya samulatadre Keleleele laa sarare ku pakulalia si katuase sakatuatuase siuili ku latiatina laa senai uaribaribate ku muaribengelai laa iya</FORM>
-       <TRANSL xml:lang="zho">到到第二個部落之後,長老們又要求一群部落閨女出來見客,結果這次把keleleele等人嚇得更厲害。因為出來見客的女子個個眼斜嘴歪,容貌不揚。Keleleele等人於是趕緊丟下一包檳榔後,迅速離開。</TRANSL>
-   </S>
-   <S id="S25">
-       <FORM kindOf="original">ku Sauliulivan ilatamua kaavai dralekedreke lauki dringaita ku ababai ku maatharir laiya uasilapenai ku siasilangan ki Keleleele laiya laa kauriva ku tarudraudrang lamaaliali kauvai muapaapalange buala mulatadra kidreedresenge pasudalua tabelangan ku sia kaikai sadreele ku Keleleele miaki Muakaikai ku lingau adravan ka tamurakadhan anika isiu anika tadaadavacan anika takaurivaane ku Keleleele laa baiku</FORM>
-       <TRANSL xml:lang="zho">這一次媒人帶他們到最遠的dralekedreke部落,心想那裡可能會有自己的理想對象。結果來到部落之後,他們發現有一個女人,有著及腰長髮,美麗容貌,就像極了她的前妻muakaikai。keleleele讚嘆:「想不到我還會找到跟muakaikai一樣條件的女人!」。這個女孩不久就就問起這一行人的來意。眾人回答是來幫keleleele相親的。於是媒人就請這個叫kaiaki的女子帶他們拜會頭目。沒想到kaiaki就是頭目的女兒。眾人向頭目說明來意後,頭目於是詢問kaiaki的意思。kaiaki不僅答應還拿起檳榔把吃以表示同意之意。</TRANSL>
-   </S>
-   <S id="S26">
-       <FORM kindOf="original">iaia ikatumane laiya ku tarudraudrang alakatuase siuli ku ini lamaalaala sakela tavanane lapelaelaku sauliuilivan kiadingainai ku siasilangane ki Keleleele laia ku saultjilivan ku samakalimale ku vai kelanai rakete laia ku lapalaingi ku tarudraudrang paaraingi kuida taulekete sakilara ku tinaini si tama ku tapeelaelaan ki Sauliulivan lakiragai la makapusalenga kuvai latautau ikarudrang kar Keleleele isi lubuta kaikameane laiya ku sialibulibu la taidai ku uataputapusu lataidai la tuBava pakuidai ki rangi</FORM>
-       <TRANSL xml:lang="zho">keleleele回家後,就告知父母kaiaki的存在並同意他的婚事。兩天後,全村族人展開大動員,搗米和做小米酒來迎接keleleele和kaiaki的盛大婚禮。</TRANSL>
-   </S>
+      <S id="S1">
+          <FORM kindOf="original">Iakai ku Cekele ki sua Taiman iakai ku tai Ruzangilan Pulalualudhan si Malitulituku laikai ku lalakeline ku sia Keleleele laikai ku saka cekeleline ku sia Muakaikai ka lalake ki Dralralu si Muliathape</FORM>
+          <TRANSL xml:lang="zho">有一部落叫taiman,有一個家族叫ruzangilan。pulalualudhan及malitulituku有一個男孩叫Keleleele。在部落裡另有一個叫Muakaikai的女孩,父母是dralralu及muliathape。</TRANSL>
+      </S>
+      <S id="S2">
+          <FORM kindOf="original">kuini aliisu ku Muakaikai saniang ki thariri kadrua ku miaiya la kadalame turamuru ku Keleleele</FORM>
+          <TRANSL xml:lang="zho">Muakaikai長的非常漂亮,沒有人比她好看比她更漂亮了!所有的男士都非常仰慕她,keleleele也不例外。</TRANSL>
+      </S>
+      <S id="S3">
+          <FORM kindOf="original">kuin aliisu ku Muakaikai lukakaiaiya lamu ta belabelangan la ribaribate ki daane ki Keleleele lapasualraalraw ku Keleleele lu itabelangn paeleelege ku Muakaikai la mu taliabang ku Keleleele la liilili ki Muakaikai</FORM>
+          <TRANSL xml:lang="zho">muakaikai每天去tabelabelangan,當經過keleleele的家時,Keleleele總是帶著愛慕眼神望著她,讚嘆她的美貌。要是muakaikai在tabelangn paeleelege時,keleleele常常會去探望她,欣賞她優美的身段與美姿。</TRANSL>
+      </S>
+      <S id="S4">
+          <FORM kindOf="original">Saka kaiaiangelatinitimumunga ku Muakaikai idaane tabelangan lautalriabang ku Muakaikai alanau dreele iya ki Muakaikai laa kakadrua ku ini aliisu ku Keleleele lamalra ku Bulali ini si mutaliabang Bulalilali la kilrala ku ia tabelangan ku lamaaliali ku lingau ki Bulali laiakai ku Muakaikai iainu kuini uabularilari ku matia diidirivan laia ku Muakaikai</FORM>
+          <TRANSL xml:lang="zho">有一天,muakaikai在家裡tinitinununga,keleleele無法從陽台上看到muakaikai。於是keleleele就去拿他的鼻笛,走到陽台上的榕樹下吹奏。此時,在tabelangan的女孩們都聽到了鼻笛聲,muakaikai就問說:「這個非常悠揚的鼻笛聲來自哪裡啊？」。</TRANSL>
+      </S>
+      <S id="S5">
+          <FORM kindOf="original">La pisadra ku tinunu ini laa katuase mulatadre maasiasirare ku Muakaikai ala dreele ku Keleleele ku iataibelangan ku latiatina la senasenai iakai ngia bularilari ku Keleleele la siasirare ku Muakaikai uatinitimuunu ku Muakaikai kai apugusulu ku sauvalrai laiya senai</FORM>
+          <TRANSL xml:lang="zho">於是muakaikai就停止刺繡走到戶外張望,想尋找鼻聲的來源。原來是keleleele想藉由優美笛聲吸引muakaikai出來。不久,keleele聽到婦女們在belangan織布嚷不聽啊!可憐的keleleele啊!相思之苦啊!</TRANSL>
+      </S>
+      <S id="S6">
+          <FORM kindOf="original">ku marudraudrang ki Keleleele tina ini si tama ine laia kai kauriva maadraungas ngukathabaranengasw tasilapenga ku lamaaliali tasilapenga ku siasilanganesu Laiya ku tinaine si tamaini</FORM>
+          <TRANSL xml:lang="zho">有一天,keleleele的長輩及爸爸媽媽對他說:你已經長大了,成年了,該是追求女朋友的時候了,部落裡的姑娘,你有中意的嗎？</TRANSL>
+      </S>
+      <S id="S7">
+          <FORM kindOf="original">madalamaku ki Muakaikai kavai lalake ki Dalalu si Muliathape laia tubale ki tinaini si tamaini</FORM>
+          <TRANSL xml:lang="zho">keleleele回答說:「好好仰慕muakaikai,就是那個dalalu及muliathape家的女孩。」</TRANSL>
+      </S>
+      <S id="S8">
+          <FORM kindOf="original">ku tinaini si tamaini lakauriva ki sasiakaululini ki Sauliulivan maadalamaku ki Muakaikai amiakai Keleleele lumuaa kauriva kivaga lailuku ki Keleleele mupalapalang laiya</FORM>
+          <TRANSL xml:lang="zho">於是爸爸媽媽說,如果你真的喜歡人家,且人家不排斥你,我們可以試試。於是就差遣媒人sauliulivan,去跟muakaikai的父母提親,看是否人家可以答應。</TRANSL>
+      </S>
+      <S id="S9">
+          <FORM kindOf="original">salrikatuase laiya kai si laa bua na nunu kai cinakacakaran taupalapalang ki lalake ki Dalalu laiya salikatuase la sirabu lasiukudru ku idiri ka karali si laa puapu ku sabiki ku daramuan padha ku idai la pakulima ku pakulalia</FORM>
+          <TRANSL xml:lang="zho">隔天sauliulivan就帶著keleleele去女方家提親。臨走前,父母給keleleele佩戴叫做cinakacakaran的刀,以及idire ka karali,並帶著一百粒daramauan的檳榔葉及五包的pakulalia。</TRANSL>
+      </S>
+      <S id="S10">
+          <FORM kindOf="original">samaka puapu laiyakai kauriva kusu kasasiakaulu nai ka Siuliulivan lu palraingi badhanga ki kai daramuan lu kaipalraingi badhanga sarare kai pakulalia laiya cuunu laia katuase ku Sauliulivan si Keleleele</FORM>
+          <TRANSL xml:lang="zho">另外,也交代媒人,尚若女方答應的話,你就給這個daramuane,若女方不答應的話,就請你攜放著pakulalia。</TRANSL>
+      </S>
+      <S id="S11">
+          <FORM kindOf="original">sakela ki tai Muakaikai laia kai ku tina si tama ki Muakaikai anukaman tumana amianumi si laia la tubaleku Sauliulivan maadalamaku ki Muakaikai amiakai Keleleele tumana amianumi paalrainginumi laiya ku Sauliulivan kauriva laiakai ku marudraudrang ki Muakaikai muasakene nai numian mainunai kainai sudalepe laa iya</FORM>
+          <TRANSL xml:lang="zho">當sauliulivan及keleleel來到muakaikai的家後,muakaikai的父母就問:怎麼是你們？你們要做什麼？sauliulivan回答說:我們家小主人keleleele非常仰慕你們家的muakaikai,我們這趟是來提親的。不知你們意下如何？</TRANSL>
+      </S>
+      <S id="S12">
+          <FORM kindOf="original">Laa tubale ku Sauliulivan kai katuman madalamaku amia kai Keleleele ani takivaga ki Muakaikai laiya sa kivaga ki Muakaikai madalamaku laiya tubale</FORM>
+          <TRANSL xml:lang="zho">muakaikai的父母就回答說:我們非常尊重你們,只怕身份地位無法匹配。sauliulivan回答說,這沒關係,只要大家有此意願,事情好辦。</TRANSL>
+      </S>
+      <S id="S13">
+          <FORM kindOf="original">paalraing ku madalamaku laiya ku Muakaikai laa bai ku Keleleele ku pinuapuan ku daramuan ka sabiki laa tarumra ku Muakaikai apu ku baiki Keleleele alakatuase siuli mudavanan</FORM>
+          <TRANSL xml:lang="zho">此時,muakaikai的母親就請muakaikai出來見客,並詢問她的想法。muakaikai回答說:不排斥keleleele,願意跟他結親。此時,keleleele就拿出daramuan送給muakaikai,當作已接受他的象徵。</TRANSL>
+      </S>
+      <S id="S14">
+          <FORM kindOf="original">Sa karudrange laa tara cailinga taa tara drusanga ka caili laa tara limanga ka caili laa kai tulaalake</FORM>
+          <TRANSL xml:lang="zho">但keleleele與muakaikai結婚後,一年、二年、五年都過去了,但她就沒有生出小孩。</TRANSL>
+      </S>
+      <S id="S15">
+          <FORM kindOf="original">ku tama si tina ki Keleleele ani kai tulalaalake kai Muakaikai maathariri maka katuase ani silape kai Keleleele laia ku tina ini si tama ini</FORM>
+          <TRANSL xml:lang="zho">keleleele的父母親納悶為什麼嫁婦無法懷孕!急著抱孫的二老,心想muakaikai可能無法生育,不如讓他們離婚,讓keleleele再去找新的對象,以傳宗接代,二老如此盤算著。</TRANSL>
+      </S>
+      <S id="S16">
+          <FORM kindOf="original">Lai kai sa alupu ku Keleleele la mutabelangan ku Muakaikai maa kalimalenga saa kelakelanga ki Keleleele laiya ku Muakaikai anau mubaliunga si agaku sadramate Ki keleleele laa iya</FORM>
+          <TRANSL xml:lang="zho">有一天,keleleele去打獵,muakaikai去tabelangan織布。過了五天,muakaikai心想,keleleele打獵有五天了,也該回來。我該回家煮keleleele喜歡的晚餐了,Muakaikai心想著這件事。</TRANSL>
+      </S>
+      <S id="S17">
+          <FORM kindOf="original">Sa kelanga tavanan laa kilara ku Muakaikai sama ka kaurivariva ku tama sitina ki Keleleele la iyaiya kai lukela ku Keleleele ani kai taa drusaanga ani makakatuase Muakaikai laa katuase siuli mutabelangan ku muadaanenga</FORM>
+          <TRANSL xml:lang="zho">結果muakaikai到家後,就聽到公公婆婆正在討論如何讓他們夫妻不再同房,讓他們離婚的事宜。婆婆說:「muakaikai漂亮又如何!不會生孩子有什麼用？」。muakaikai聽到公婆的對話後,傷心欲泣。</TRANSL>
+      </S>
+      <S id="S18">
+          <FORM kindOf="original">La ka miaaubunga saa kelakelanga ki Keleleele la ui ngibuale ki lregelrege animia kai lingau ki Keleleele laa iya saki laira ku Muakaikai si tubi lakatuase mubaliu makakai latinaini kai mua tavananenge muaki tai Keleleele</FORM>
+          <TRANSL xml:lang="zho">接近黃昏時,muakaikai聽到在山的那邊有U……聲,心想可能是keleleele,於是就更傷心。直接回娘家,不再回keleleele的家了。</TRANSL>
+      </S>
+      <S id="S19">
+          <FORM kindOf="original">Sa kelaanga baliu sa kelanga tavanan ku Keleleele kadruaku Muakaikai laa nakuan laiya la tubale ku tinain kaleleele muainu ku lalakesu ani palemeke kai kidreedreseng ku kamuainu anipalemeke la iakai ku vaganumi laiya ku leleleele kauriva tu balre ki tinaini laa kai kane ku kitedraini laa katuase kabiibiile muaki Muakaikai</FORM>
+          <TRANSL xml:lang="zho">keleleele進了家門後發現muakaikai沒有在家,於是keleleele詢問父母:「muakaikai去那裡呢!怎麼沒來接我呢？」。他的父母回答說:「我們不知道她去那裡,她今天沒有回家。」Keleleele說:「你們可能對她說了什麼吧!」。於是keleleele也不在家裡吃飯,就直接去找心愛的muakaikail了。</TRANSL>
+      </S>
+      <S id="S20">
+          <FORM kindOf="original">asupia maatumanesu asupalemeke laiya ku Keleleele maabarengeraku ki latinaini si tamaita laiya ani ila tamu tavonane inaku uakaneana ku kitedrali laiaku Keleleele inaku tupala musuan ingu barengeraneanaku ki ina si ama kiaunga lu kakaiaiannga lu katuasanga asusarakan ku kitedraasu laiya ku Muakaikai laa katuase ku Keleleele</FORM>
+          <TRANSL xml:lang="zho">見到muakiakia後,keleleele問:「你這樣做是為了什麼嗎？你是怎樣了呢？」muakaikai回答說:「因為,我想念我爸媽嘛!」keleleele就說:「那我們現在就回家去吧,我還沒有吃晚餐呢？」。muakaikai卻跟她的丈夫說:「很抱歉!我不要跟你回去了,我要好好的陪著我父母,回去的事改天再說好了,你早點回去吧,早點吃你的晚餐。」keleleele就回家了。</TRANSL>
+      </S>
+      <S id="S21">
+          <FORM kindOf="original">Samaka pusalenga ku vai la aga ku Muakaikai ku kadalame ki Keleleele ku rinepelan ka cpearan ka becng ku Muakaikai la sikaulu ki laa vaavalake daulu ku Keleleele alakela ku Keleleele maabarengeraku musuan buala takan kaludrusa laiya ku Muakaikai laa kiragai ku Keleleele samakakan laiakai ku Muakaikai iakuinai akaurivaneli apeelaelaaneli musuan ai madha ka samasamadre nakuan lakaidu kaelaela ki tamaita si tinaita pasalaalaadhanga ku ki dremedreme ki tamaita si tinaita saalupusu laimutabelanganaku nau mubaliunga ku kitedra ki Keleleele laiya ku lakelaku tavanan maakakaurivariva ku tinaita si tamaita Keleleele ka kadalameli kikai isiuli maru niakeli ibaadra ku musuan patuele kai niakeli kai kidremedremeli ngulingavangaili laiya ku Muakaikai kikai isiuli sakika daladalamaneli laiya ku Muakaikai si tubi tungaungau si kebere kiKeleleele</FORM>
+          <TRANSL xml:lang="zho">過兩天後,muakaikai煮了keleleele最喜歡吃的小米飯,並吩咐一小朋友去請keleleele來。Keleleele來了之後,muakaikai就說:「我想念你,所以煮了你最喜歡吃的小米飯,但是我有話要跟你說。」於是muakaikai非常悲傷的哭泣,告訴keleleele公婆如何差導她的事情,muakaikai說,如果你要換老婆,請記得一定要找和我一樣愛你的人。於是她把髮長及腰的秀髮剪掉,將之圍在keleleele的腰上並說:「這是我身上最珍貴的東西,也是許多人仰慕我的原因之一,當你追求其他女人時,請不要忘了我的柔情!」。</TRANSL>
+      </S>
+      <S id="S22">
+          <FORM kindOf="original">kai makapiale ku vai ku tama si tina ki Keleleele laa daulu ki sasiakaulalini ka Sauliulivan laiyakai kauriva isilapengata ku siasilangan ki Keleleele lukakbiaia iluka ki Keleleele si taalrailraginilaa katuase muaki cekelenga silape ku kadalame ki Keleleele saulivan ikatuman laa iya</FORM>
+          <TRANSL xml:lang="zho">過沒多久keleleele的父母又請sauliulivan再度當媒人,替keleleele找新的老婆。他們要sauliulivan到各部落去,打聽最漂亮聰慧的頭目貴族家的女孩,作為keleleele新的老婆對象。</TRANSL>
+      </S>
+      <S id="S23">
+          <FORM kindOf="original">Lakela ki daane ki talialaalai anukamani uatumanenumi laa iya uasilasilapenai ku siasilangan ki Keleleele laiakai ku tarudraudrang lamaaliali ki libang ku maca nguatha ki laulaudru ku ngudui laa ka samali ku Keleleele si taisi marrikaka laa iya sakelataisimmarikaka laa muaki dane ki talialaalai</FORM>
+          <TRANSL xml:lang="zho">之後keleleele一行人來到Karavasane這個部落。keleleele等人向長老解釋是來相親後,眾長老就請所有的大家閨秀出來見客。結果,當這些貴花閨女出來後把大家聚一起。因為這些女子個個有著如窗戶一樣大的眼睛,如門一樣寬的嘴巴!受驚嚇的一行人馬上留下一包檳榔後快速地離開轉到別的部落。</TRANSL>
+      </S>
+      <S id="S24">
+          <FORM kindOf="original">anu kamani uatumanenumi laa kiya laa tubale ku Sauliulivan ua silasilapenai lamaaliali ku ika siasilangn ki Keleleele laiya laiakai ku tarudraudrange lamaaliali buala mulatadra ki dreedresenge ki lataka pasudalua laiya samulatadre Keleleele laa sarare ku pakulalia si katuase sakatuatuase siuili ku latiatina laa senai uaribaribate ku muaribengelai laa iya</FORM>
+          <TRANSL xml:lang="zho">到到第二個部落之後,長老們又要求一群部落閨女出來見客,結果這次把keleleele等人嚇得更厲害。因為出來見客的女子個個眼斜嘴歪,容貌不揚。Keleleele等人於是趕緊丟下一包檳榔後,迅速離開。</TRANSL>
+      </S>
+      <S id="S25">
+          <FORM kindOf="original">ku Sauliulivan ilatamua kaavai dralekedreke lauki dringaita ku ababai ku maatharir laiya uasilapenai ku siasilangan ki Keleleele laiya laa kauriva ku tarudraudrang lamaaliali kauvai muapaapalange buala mulatadra kidreedresenge pasudalua tabelangan ku sia kaikai sadreele ku Keleleele miaki Muakaikai ku lingau adravan ka tamurakadhan anika isiu anika tadaadavacan anika takaurivaane ku Keleleele laa baiku</FORM>
+          <TRANSL xml:lang="zho">這一次媒人帶他們到最遠的dralekedreke部落,心想那裡可能會有自己的理想對象。結果來到部落之後,他們發現有一個女人,有著及腰長髮,美麗容貌,就像極了她的前妻muakaikai。keleleele讚嘆:「想不到我還會找到跟muakaikai一樣條件的女人!」。這個女孩不久就就問起這一行人的來意。眾人回答是來幫keleleele相親的。於是媒人就請這個叫kaiaki的女子帶他們拜會頭目。沒想到kaiaki就是頭目的女兒。眾人向頭目說明來意後,頭目於是詢問kaiaki的意思。kaiaki不僅答應還拿起檳榔把吃以表示同意之意。</TRANSL>
+      </S>
+      <S id="S26">
+          <FORM kindOf="original">iaia ikatumane laiya ku tarudraudrang alakatuase siuli ku ini lamaalaala sakela tavanane lapelaelaku sauliuilivan kiadingainai ku siasilangane ki Keleleele laia ku saultjilivan ku samakalimale ku vai kelanai rakete laia ku lapalaingi ku tarudraudrang paaraingi kuida taulekete sakilara ku tinaini si tama ku tapeelaelaan ki Sauliulivan lakiragai la makapusalenga kuvai latautau ikarudrang kar Keleleele isi lubuta kaikameane laiya ku sialibulibu la taidai ku uataputapusu lataidai la tuBava pakuidai ki rangi</FORM>
+          <TRANSL xml:lang="zho">keleleele回家後,就告知父母kaiaki的存在並同意他的婚事。兩天後,全村族人展開大動員,搗米和做小米酒來迎接keleleele和kaiaki的盛大婚禮。</TRANSL>
+      </S>
 </TEXT>
