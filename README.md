@@ -14,8 +14,8 @@ The XMLs were created from the PDF using EasyOCR followed by extensive hand corr
 ```
 python easyOCR.py 
 ```
-
-This produces raw text files from the scanned PDF pages.
+This produces raw text from the scanned PDF pages.
+Required lots of hand correction.
 
 2. **Hand format XML according to FormosanBank standards**
 
